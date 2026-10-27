@@ -1,0 +1,2 @@
+# Nuqiwealth_India_Posgresql_Schema
+Nuqiwealth_India_Posgresql_Schema migration
